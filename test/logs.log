@@ -1,0 +1,2 @@
+[E 240531 22:47:47 server:14] Ошибка в создании сокета: socket.bind() takes exactly one argument (2 given)
+[I 240531 22:47:47 server:16] Сервер открыт: 127.0.0.1:228
