@@ -1,0 +1,7 @@
+[E 240531 23:04:49 VidReciver:16] Ошибка при подключении: Logger.log() missing 1 required positional argument: 'msg'
+[E 240531 23:05:40 VidReciver:16] Ошибка при подключении: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+[E 240531 23:05:50 VidReciver:16] Ошибка при подключении: Logger.log() missing 1 required positional argument: 'msg'
+[E 240531 23:13:26 VidReciver:16] Ошибка при подключении: Logger.log() missing 1 required positional argument: 'level'
+[I 240531 23:13:52 VidReciver:14] Успешно подключенно: 127.0.0.1:228
+[I 240531 23:34:39 VidReciver:14] Успешно подключенно: 127.0.0.1:228
+[I 240531 23:39:59 VidReciver:14] Успешно подключенно: 127.0.0.1:228

@@ -11,8 +11,9 @@ port = 228
 
 try:
     sock.connect((ip, port))
-    logger.log(f"Успешно подключенно: {ip}:{port}")
+    logger.info(f"Успешно подключенно: {ip}:{port}")
 except Exception as error_code:
-    logger.error(f"Ошибка при подключении: {error_code}")
+    logger.error(msg=f"Ошибка при подключении: {error_code}")
     
-
+data_vid = open("video.mp4", 'r')
+sock.send((data_vid).encode("UTF-8"))
